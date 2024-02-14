@@ -5,9 +5,9 @@
 <img src="Screenshot.png"/>
 
 ## File Structure:
-### ascii_art.py → holds the ascii art for the hangman stages and  the hangman logo at the start
-### random_words.py → holds the random words list for the game - contains 4597 unique values
-### main.py → main file - holds the logic of the game
+### • ascii_art.py → holds the ascii art for the hangman stages and  the hangman logo at the start
+### • random_words.py → holds the random words list for the game - contains 4597 unique values
+### • main.py → main file - holds the logic of the game
 
 ## How to install and get started:
 ### Copy the following commands to the CLI after you open it in your desired location
